@@ -1,0 +1,13 @@
+# Get files
+git clone https://github.com/stefanleipoldseal/git
+
+# Check files
+git status
+git add .
+git commit
+
+# Push files
+git push
+
+if not working
+git push -u origin master
